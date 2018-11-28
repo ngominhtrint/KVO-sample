@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB84A21C21AE48AA00EB7E52 /* EmailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84A21B21AE48AA00EB7E52 /* EmailModel.swift */; };
+		EB84A21E21AE4B3A00EB7E52 /* EmailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84A21D21AE4B3A00EB7E52 /* EmailViewModel.swift */; };
 		EBEAE6B421AD865C00345DBF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEAE6B321AD865C00345DBF /* AppDelegate.swift */; };
 		EBEAE6B621AD865C00345DBF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEAE6B521AD865C00345DBF /* ViewController.swift */; };
 		EBEAE6B921AD865C00345DBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBEAE6B721AD865C00345DBF /* Main.storyboard */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB84A21B21AE48AA00EB7E52 /* EmailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailModel.swift; sourceTree = "<group>"; };
+		EB84A21D21AE4B3A00EB7E52 /* EmailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewModel.swift; sourceTree = "<group>"; };
 		EBEAE6B021AD865C00345DBF /* KVO-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KVO-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBEAE6B321AD865C00345DBF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBEAE6B521AD865C00345DBF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				EBEAE6BF21AD865E00345DBF /* LaunchScreen.storyboard */,
 				EBEAE6C221AD865E00345DBF /* Info.plist */,
 				EBEAE6BA21AD865C00345DBF /* KVO_Sample.xcdatamodeld */,
+				EB84A21B21AE48AA00EB7E52 /* EmailModel.swift */,
+				EB84A21D21AE4B3A00EB7E52 /* EmailViewModel.swift */,
 			);
 			path = "KVO-Sample";
 			sourceTree = "<group>";
@@ -259,6 +265,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB84A21C21AE48AA00EB7E52 /* EmailModel.swift in Sources */,
+				EB84A21E21AE4B3A00EB7E52 /* EmailViewModel.swift in Sources */,
 				EBEAE6B621AD865C00345DBF /* ViewController.swift in Sources */,
 				EBEAE6BC21AD865C00345DBF /* KVO_Sample.xcdatamodeld in Sources */,
 				EBEAE6B421AD865C00345DBF /* AppDelegate.swift in Sources */,
