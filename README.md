@@ -1,2 +1,4 @@
-# KVO-sample
-Key-Value Observer sample apply with MVVM pattern.
+
+# KVO-Sample
+
+Key Value Observing pattern sample
