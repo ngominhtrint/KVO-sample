@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB537FA221B0F60B00B249FF /* TestingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB537FA121B0F60B00B249FF /* TestingViewController.swift */; };
 		EB84A21C21AE48AA00EB7E52 /* EmailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84A21B21AE48AA00EB7E52 /* EmailModel.swift */; };
 		EB84A21E21AE4B3A00EB7E52 /* EmailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84A21D21AE4B3A00EB7E52 /* EmailViewModel.swift */; };
 		EBEAE6B421AD865C00345DBF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEAE6B321AD865C00345DBF /* AppDelegate.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB537FA121B0F60B00B249FF /* TestingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingViewController.swift; sourceTree = "<group>"; };
 		EB84A21B21AE48AA00EB7E52 /* EmailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailModel.swift; sourceTree = "<group>"; };
 		EB84A21D21AE4B3A00EB7E52 /* EmailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewModel.swift; sourceTree = "<group>"; };
 		EBEAE6B021AD865C00345DBF /* KVO-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KVO-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -112,6 +114,7 @@
 				EBEAE6BA21AD865C00345DBF /* KVO_Sample.xcdatamodeld */,
 				EB84A21B21AE48AA00EB7E52 /* EmailModel.swift */,
 				EB84A21D21AE4B3A00EB7E52 /* EmailViewModel.swift */,
+				EB537FA121B0F60B00B249FF /* TestingViewController.swift */,
 			);
 			path = "KVO-Sample";
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				EB84A21C21AE48AA00EB7E52 /* EmailModel.swift in Sources */,
 				EB84A21E21AE4B3A00EB7E52 /* EmailViewModel.swift in Sources */,
 				EBEAE6B621AD865C00345DBF /* ViewController.swift in Sources */,
+				EB537FA221B0F60B00B249FF /* TestingViewController.swift in Sources */,
 				EBEAE6BC21AD865C00345DBF /* KVO_Sample.xcdatamodeld in Sources */,
 				EBEAE6B421AD865C00345DBF /* AppDelegate.swift in Sources */,
 			);
